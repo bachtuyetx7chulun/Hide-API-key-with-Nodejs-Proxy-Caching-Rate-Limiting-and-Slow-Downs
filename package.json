@@ -1,0 +1,9 @@
+{
+  "name": "limit-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bachtuyetx7chulun/Hide-API-key-with-Nodejs-Proxy-Caching-Rate-Limiting-and-Slow-Downs.git",
+  "author": "Trung Hieu",
+  "license": "MIT",
+  "private": true
+}
